@@ -53,5 +53,4 @@ int main ()
         
     } while (isTrue != false);
     return 0;
-
 }
